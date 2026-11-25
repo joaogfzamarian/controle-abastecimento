@@ -13,7 +13,6 @@ O sistema permite cadastrar veículos, registrar a quantidade de combustível ab
 
 O projeto foi desenvolvido no contexto da disciplina de **Programação para Dispositivos Móveis**, com o objetivo de aplicar conceitos de desenvolvimento mobile, integração com serviços em nuvem e organização de código.
 
-> **Código-fonte:** disponível na branch [`master`](https://github.com/joaogfzamarian/controle-abastecimento/tree/master).
 
 ## 🚀 Funcionalidades
 
