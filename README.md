@@ -127,7 +127,7 @@ erDiagram
 ### 1. Clone o repositório
 
 ```bash
-git clone --branch master https://github.com/joaogfzamarian/controle-abastecimento.git
+git clone https://github.com/joaogfzamarian/controle-abastecimento.git
 cd controle-abastecimento
 ```
 
